@@ -1,3 +1,3 @@
-- hi, im sajjad
+- his, im sajjad
 - beginner developer
 - nodejs and golang devloper
